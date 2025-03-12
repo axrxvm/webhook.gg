@@ -1,0 +1,17 @@
+{
+  "name": "webhook.gg",
+  "version": "1.0.0",
+  "description": "Simple, Efficient, Fast Webhook Sender for Discord!",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm install && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aarav Mehta",
+  "homepage": "https://aaravm.me/",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "readline": "^1.3.0"
+  }
+}
